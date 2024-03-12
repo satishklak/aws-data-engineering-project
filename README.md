@@ -5,7 +5,8 @@ Our client passionate about music industry, want to understand by collecting dif
 spotify we have multiple playlist available and client wants to start with top global songs types of songs, albums treding, who is the artists who is making all of these songs
 this playlist updates every weekly, he wants to build dataset thru out the year, so build etl pipeline , weekly basis collect data after 2 yrs to get insights
 
-
+### Architecture
+![Architecture Diagram](https://github.com/satishklak/aws-data-engineering-project/blob/main/Architecture.jpg)
 
 steps
 1.spotify api (spotify app has artist, album and track/songs info) - provided by spotify, register to get client and secret id to collect data , use pckg spotify
