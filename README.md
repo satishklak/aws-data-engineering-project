@@ -1,4 +1,4 @@
-# aws-data-engineering-project
+# AWS-DATA Engineering Project
 
 Goal of every DataEngineering project is to generate business value , so reason to collect diff types of data and get insights
 Our client passionate about music industry, want to understand by collecting different types of data so that he can find some patterns and make music based on that
